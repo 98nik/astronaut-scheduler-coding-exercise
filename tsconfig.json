@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "outDir": "./dist",  // Output to the dist folder
+    "rootDir": "./src",  // Take input from the src folder
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "src/**/*.ts"  // Include all TypeScript files in the src folder
+  ]
+}
