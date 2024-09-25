@@ -41,7 +41,7 @@ astronaut-scheduler/
 **How to Run**:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/astronaut-scheduler.git
+   git clone https://github.com/yourusername/astronaut-scheduler-coding-exercise.git
    cd astronaut-scheduler
    ```
 
